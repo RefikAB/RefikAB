@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Refik A.
 - 👀 I’m interested in Product Management, Analytical and Cloud oriented internships
-- 🏛 I’m currently learning foundations in cloud computing archeticture (AWS & Azure)
+- 🏛 I’m currently learning foundations in cloud computing Archeticture and Infrastructure (AWS & Azure)
 
 - 📫 How to reach me: refik17@uw.edu
 
